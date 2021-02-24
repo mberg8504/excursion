@@ -31,3 +31,7 @@ header p {
     color: gray;
 }
 
+footer {
+    text-align: right;
+    color: gray;
+}
