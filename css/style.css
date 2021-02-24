@@ -1,12 +1,13 @@
 body {
     background-color: black;
     text-align: center;
+    font-family: verdana;
+    color: white;
 }
 
-h1,
-h2 {
-    color: white;
-    font-style: Verdana;
+a.cta{
+    color: aquamarine;
+    font-size: 16px;
 }
 
 header h1 {
@@ -25,14 +26,8 @@ header p {
     font-size: 42px;
 }
 
-.personal-travel-guide p {
-    font-family: Verdana;
+.personal-travel-guide + p {
     font-size: 21px;
     color: gray;
 }
-
-
-
-
-
 
